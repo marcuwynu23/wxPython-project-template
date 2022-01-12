@@ -1,1 +1,1 @@
- 
+ # wx-project-template
